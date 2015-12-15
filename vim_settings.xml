@@ -27,6 +27,9 @@
       <file name="$USER_HOME$/code/sqor/erlang/SQ2_Relationship/src/rls.erl" timestamp="1450144228344">
         <mark key="'" line="528" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_flair_handler.erl" timestamp="1450218845971">
+        <mark key="'" line="83" column="49" />
+      </file>
       <file name="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" timestamp="1450208611056">
         <mark key="'" line="332" column="46" />
       </file>
@@ -36,8 +39,8 @@
       <file name="$USER_HOME$/code/sqor/erlang/ricardo/lib/ricardo.ex" timestamp="1450082222294">
         <mark key="[" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" timestamp="1450140402236">
-        <mark key="'" line="92" column="23" />
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" timestamp="1450218734475">
+        <mark key="'" line="157" column="56" />
       </file>
       <file name="$USER_HOME$/code/sqor/erlang/entity_cache/src/riak.erl" timestamp="1450123555973">
         <mark key="[" line="22" column="30" />
@@ -135,6 +138,10 @@
       <jump line="316" column="20" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
       <jump line="321" column="48" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
       <jump line="332" column="46" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="93" column="56" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" />
+      <jump line="157" column="56" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" />
+      <jump line="45" column="42" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_flair_handler.erl" />
+      <jump line="83" column="49" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_flair_handler.erl" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -144,7 +151,7 @@
         <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>from</text>
+        <text>flair</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICsrICIsZGV0YWlscy5wbGF5ZXIuaXNfdGVhbV9zcW9yJTIwYXNjIi4K</text>
@@ -181,9 +188,9 @@
       </register>
     </registers>
     <search>
-      <last-search>from</last-search>
+      <last-search>flair</last-search>
       <last-offset />
-      <last-pattern>from</last-pattern>
+      <last-pattern>flair</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -201,6 +208,7 @@
         <entry>to\:</entry>
         <entry>sender</entry>
         <entry>from</entry>
+        <entry>flair</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
