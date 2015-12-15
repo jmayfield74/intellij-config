@@ -9,8 +9,12 @@
       <file name="/a.dummy" timestamp="1450139086888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" timestamp="1450159837114">
-        <mark key="'" line="20" column="25" />
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_chat_friends_token_handler.erl" timestamp="1450166826711">
+        <mark key="'" line="81" column="15" />
+        <mark key="[" line="59" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" timestamp="1450167019675">
+        <mark key="'" line="20" column="33" />
         <mark key="[" line="169" column="29" />
       </file>
       <file name="$USER_HOME$/code/sqor/erlang/sqor_riak/src/sqriak_posts.erl" timestamp="1450068336559">
@@ -60,9 +64,10 @@
       <file name="/fragment.java" timestamp="1449978592730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" timestamp="1450163968053">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="113" column="34" />
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" timestamp="1450166992012">
+        <mark key="'" line="10" column="0" />
+        <mark key="j" line="0" column="0" />
+        <mark key="m" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -80,56 +85,63 @@
       <jump line="167" column="31" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
       <jump line="28" column="14" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
       <jump line="143" column="12" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
-      <jump line="20" column="25" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
+      <jump line="123" column="0" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" />
+      <jump line="11" column="17" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" />
+      <jump line="197" column="17" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" />
+      <jump line="32" column="10" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_chat_friends_token_handler.erl" />
+      <jump line="82" column="15" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_chat_friends_token_handler.erl" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
+      <jump line="20" column="33" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>desc</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>we</text>
+        <text>utils</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICsrICIsZGV0YWlscy5wbGF5ZXIuaXNfdGVhbV9zcW9yJTIwYXNjIi4K</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text>()</text>
       </register>
       <register name="2" type="4">
-        <text>desc</text>
+        <text>propertylist</text>
       </register>
       <register name="3" type="4">
-        <text>player</text>
+        <text>any()</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICA8PCJlamhlaXVoZSI+PiA9IDw8InBvbyI+Pgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>player</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB0aGUK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">YW5vdGhlciBhdHRlbXB0IHRwIGJvb3N0IGlzX3RlYW1fc3FvciBzbyB0aGF0IHRoZXkgYXJlIHNjb3JlZCBoaWdoZXN0Lgo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>team</text>
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>organization</text>
+        <text>desc</text>
       </register>
       <register name=":" type="4">
-        <text>action FindUsages</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>we</last-search>
+      <last-search>utils</last-search>
       <last-offset />
-      <last-pattern>we</last-pattern>
+      <last-pattern>utils</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -139,14 +151,13 @@
         <entry>like</entry>
         <entry>box</entry>
         <entry>recommen</entry>
-        <entry>utils</entry>
         <entry>we</entry>
+        <entry>iutils</entry>
+        <entry>utils</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
-        <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>nohlsearch</entry>
         <entry>action CommentByLineComment</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
@@ -157,6 +168,8 @@
         <entry>action ChangeColorScheme 8</entry>
         <entry>action ChangeColorScheme</entry>
         <entry>action FindUsages</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
