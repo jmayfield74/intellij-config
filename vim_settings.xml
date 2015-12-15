@@ -9,8 +9,8 @@
       <file name="/a.dummy" timestamp="1450139086888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" timestamp="1450159337428">
-        <mark key="'" line="143" column="12" />
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" timestamp="1450159837114">
+        <mark key="'" line="20" column="25" />
         <mark key="[" line="169" column="29" />
       </file>
       <file name="$USER_HOME$/code/sqor/erlang/sqor_riak/src/sqriak_posts.erl" timestamp="1450068336559">
@@ -78,6 +78,7 @@
       <jump line="167" column="31" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
       <jump line="28" column="14" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
       <jump line="143" column="12" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
+      <jump line="20" column="25" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -87,7 +88,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>utils</text>
+        <text>we</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICsrICIsZGV0YWlscy5wbGF5ZXIuaXNfdGVhbV9zcW9yJTIwYXNjIi4K</text>
@@ -124,9 +125,9 @@
       </register>
     </registers>
     <search>
-      <last-search>utils</last-search>
+      <last-search>we</last-search>
       <last-offset />
-      <last-pattern>utils</last-pattern>
+      <last-pattern>we</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -137,6 +138,7 @@
         <entry>box</entry>
         <entry>recommen</entry>
         <entry>utils</entry>
+        <entry>we</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
