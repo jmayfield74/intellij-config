@@ -27,6 +27,9 @@
       <file name="$USER_HOME$/code/sqor/erlang/SQ2_Relationship/src/rls.erl" timestamp="1450144228344">
         <mark key="'" line="528" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" timestamp="1450208611056">
+        <mark key="'" line="332" column="46" />
+      </file>
       <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_recommends_handler.erl" timestamp="1450149192323">
         <mark key="'" line="30" column="20" />
       </file>
@@ -115,6 +118,23 @@
       <jump line="216" column="53" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
       <jump line="311" column="34" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
       <jump line="314" column="38" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="94" column="16" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="126" column="27" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="214" column="60" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="225" column="26" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="227" column="37" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="299" column="45" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="300" column="8" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="301" column="27" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="302" column="19" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="307" column="54" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="313" column="46" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="314" column="8" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="315" column="28" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="316" column="20" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="321" column="48" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="332" column="46" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -157,7 +177,7 @@
         <text>desc</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -179,6 +199,7 @@
         <entry>to</entry>
         <entry>to:</entry>
         <entry>to\:</entry>
+        <entry>sender</entry>
         <entry>from</entry>
       </history-search>
       <history-cmd>
@@ -193,9 +214,9 @@
         <entry>actionlist color</entry>
         <entry>action ChangeColorScheme 8</entry>
         <entry>action ChangeColorScheme</entry>
-        <entry>action FindUsages</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
