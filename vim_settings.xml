@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/csharp_redirect_handler.erl" timestamp="1450148809849">
         <mark key="[" line="15" column="25" />
       </file>
+      <file name="/Dummy.txt" timestamp="1450207554832">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1450139086888">
         <mark key="[" line="0" column="0" />
       </file>
@@ -46,6 +49,9 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_call_ws.erl" timestamp="1450207822624">
+        <mark key="[" line="0" column="70" />
+      </file>
       <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/src/nf_service.erl" timestamp="1450062531336">
         <mark key="'" line="56" column="3" />
         <mark key="[" line="205" column="89" />
@@ -60,6 +66,9 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" timestamp="1450207775514">
+        <mark key="'" line="314" column="38" />
       </file>
       <file name="/fragment.java" timestamp="1449978592730">
         <mark key="[" line="0" column="0" />
@@ -93,6 +102,19 @@
       <jump line="10" column="0" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" />
       <jump line="22" column="0" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
       <jump line="20" column="33" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="37" column="59" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="38" column="59" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="65" column="53" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="74" column="59" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="113" column="42" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="137" column="36" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="139" column="34" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="185" column="42" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="209" column="34" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="216" column="53" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="311" column="34" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="314" column="38" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -102,7 +124,7 @@
         <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>utils</text>
+        <text>from</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICsrICIsZGV0YWlscy5wbGF5ZXIuaXNfdGVhbV9zcW9yJTIwYXNjIi4K</text>
@@ -139,9 +161,9 @@
       </register>
     </registers>
     <search>
-      <last-search>utils</last-search>
+      <last-search>from</last-search>
       <last-offset />
-      <last-pattern>utils</last-pattern>
+      <last-pattern>from</last-pattern>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
@@ -154,6 +176,10 @@
         <entry>we</entry>
         <entry>iutils</entry>
         <entry>utils</entry>
+        <entry>to</entry>
+        <entry>to:</entry>
+        <entry>to\:</entry>
+        <entry>from</entry>
       </history-search>
       <history-cmd>
         <entry>s</entry>
