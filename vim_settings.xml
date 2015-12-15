@@ -36,9 +36,7 @@
       <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_recommends_handler.erl" timestamp="1450149192323">
         <mark key="'" line="30" column="20" />
       </file>
-      <file name="$USER_HOME$/code/sqor/erlang/ricardo/lib/ricardo.ex" timestamp="1450082222294">
-        <mark key="[" line="10" column="28" />
-      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/ricardo/lib/ricardo.ex" timestamp="1450220662502" />
       <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" timestamp="1450218734475">
         <mark key="'" line="157" column="56" />
       </file>
@@ -247,6 +245,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
