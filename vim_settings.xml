@@ -56,7 +56,9 @@
       <file name="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_call_ws.erl" timestamp="1450207822624">
         <mark key="[" line="0" column="70" />
       </file>
-      <file name="$USER_HOME$/code/sqor/erlang/sqor_scheduler/src/ss_task_statsinc_editorial.erl" timestamp="1450220727027" />
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_scheduler/src/ss_task_statsinc_editorial.erl" timestamp="1450222747842">
+        <mark key="'" line="138" column="23" />
+      </file>
       <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/src/nf_service.erl" timestamp="1450062531336">
         <mark key="'" line="56" column="3" />
         <mark key="[" line="205" column="89" />
@@ -141,6 +143,7 @@
       <jump line="157" column="56" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" />
       <jump line="45" column="42" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_flair_handler.erl" />
       <jump line="83" column="49" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_flair_handler.erl" />
+      <jump line="138" column="23" filename="$USER_HOME$/code/sqor/erlang/sqor_scheduler/src/ss_task_statsinc_editorial.erl" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
