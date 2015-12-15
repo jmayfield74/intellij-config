@@ -32,6 +32,11 @@
       <file name="$USER_HOME$/code/sqor/erlang/entity_cache/src/riak.erl" timestamp="1450123555973">
         <mark key="[" line="22" column="30" />
       </file>
+      <file name="/Erlang Console" timestamp="1450165181653">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/code/sqor/erlang/sqor_riak/src/sqriak_utils.erl" timestamp="1450080159634">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
@@ -118,7 +123,7 @@
         <text>organization</text>
       </register>
       <register name=":" type="4">
-        <text>action ChangeColorScheme</text>
+        <text>action FindUsages</text>
       </register>
     </registers>
     <search>
@@ -146,12 +151,12 @@
         <entry>action CommentByLineComment</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>action VcsShowNextChangeMarker</entry>
-        <entry>action FindUsages</entry>
         <entry>action Declaration</entry>
         <entry>actionlist quick</entry>
         <entry>actionlist color</entry>
         <entry>action ChangeColorScheme 8</entry>
         <entry>action ChangeColorScheme</entry>
+        <entry>action FindUsages</entry>
       </history-cmd>
       <history-expr />
       <history-input />
