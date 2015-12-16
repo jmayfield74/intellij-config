@@ -3,13 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/csharp_redirect_handler.erl" timestamp="1450148809849">
-        <mark key="[" line="15" column="25" />
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_HttpUmbrella/build_deps.stage" timestamp="1450229813228">
+        <mark key="[" line="8" column="74" />
+        <mark key="]" line="13" column="74" />
+        <mark key="^" line="13" column="74" />
+        <mark key="." line="13" column="74" />
       </file>
-      <file name="/Dummy.txt" timestamp="1450224217812">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1450224217829">
+      <file name="/a.dummy" timestamp="1450229855997">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_chat_friends_token_handler.erl" timestamp="1450166826711">
@@ -24,11 +24,38 @@
         <mark key="'" line="1054" column="6" />
         <mark key="[" line="922" column="45" />
       </file>
-      <file name="$USER_HOME$/code/sqor/erlang/SQ2_Relationship/src/rls.erl" timestamp="1450144228344">
-        <mark key="'" line="528" column="0" />
-      </file>
       <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_flair_handler.erl" timestamp="1450218845971">
         <mark key="'" line="83" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/entity_cache/src/riak.erl" timestamp="1450123555973">
+        <mark key="[" line="22" column="30" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/src/nf_service.erl" timestamp="1450062531336">
+        <mark key="'" line="56" column="3" />
+        <mark key="[" line="205" column="89" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/src/nf_db.erl" timestamp="1450062879322">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" timestamp="1450207775514">
+        <mark key="'" line="314" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" timestamp="1450166992012">
+        <mark key="'" line="10" column="0" />
+        <mark key="j" line="0" column="0" />
+        <mark key="m" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/csharp_redirect_handler.erl" timestamp="1450148809849">
+        <mark key="[" line="15" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1450229855992">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_Relationship/src/rls.erl" timestamp="1450144228344">
+        <mark key="'" line="528" column="0" />
       </file>
       <file name="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" timestamp="1450208611056">
         <mark key="'" line="332" column="46" />
@@ -39,9 +66,6 @@
       <file name="$USER_HOME$/code/sqor/erlang/ricardo/lib/ricardo.ex" timestamp="1450220662502" />
       <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" timestamp="1450218734475">
         <mark key="'" line="157" column="56" />
-      </file>
-      <file name="$USER_HOME$/code/sqor/erlang/entity_cache/src/riak.erl" timestamp="1450123555973">
-        <mark key="[" line="22" column="30" />
       </file>
       <file name="/Erlang Console" timestamp="1450165181653">
         <mark key="]" line="0" column="0" />
@@ -59,37 +83,19 @@
       <file name="$USER_HOME$/code/sqor/erlang/sqor_scheduler/src/ss_task_statsinc_editorial.erl" timestamp="1450222747842">
         <mark key="'" line="138" column="23" />
       </file>
-      <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/src/nf_service.erl" timestamp="1450062531336">
-        <mark key="'" line="56" column="3" />
-        <mark key="[" line="205" column="89" />
-      </file>
       <file name="$USER_HOME$/code/sqor/erlang/sqor_scheduler/src/ss_utils.erl" timestamp="1450227596945">
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
         <mark key="^" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/src/nf_db.erl" timestamp="1450062879322">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="12" />
-      </file>
       <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/_rel/nf_release/lib/nf-0.1.1/src/nf_thing.erl" timestamp="1449979511688">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" timestamp="1450207775514">
-        <mark key="'" line="314" column="38" />
-      </file>
       <file name="/fragment.java" timestamp="1449978592730">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" timestamp="1450166992012">
-        <mark key="'" line="10" column="0" />
-        <mark key="j" line="0" column="0" />
-        <mark key="m" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
