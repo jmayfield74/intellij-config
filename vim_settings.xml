@@ -63,11 +63,17 @@
         <mark key="'" line="56" column="3" />
         <mark key="[" line="205" column="89" />
       </file>
-      <file name="$USER_HOME$/code/sqor/erlang/sqor_scheduler/src/ss_utils.erl" timestamp="1450224321952">
-        <mark key="[" line="32" column="34" />
-        <mark key="]" line="32" column="34" />
-        <mark key="." line="32" column="34" />
-        <mark key="^" line="32" column="30" />
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_scheduler/src/ss_utils.erl" timestamp="1450227596945">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/src/nf_db.erl" timestamp="1450062879322">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="12" />
       </file>
       <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/_rel/nf_release/lib/nf-0.1.1/src/nf_thing.erl" timestamp="1449979511688">
         <mark key="[" line="18" column="0" />
@@ -159,31 +165,31 @@
         <text encoding="base64">ICAgICAgICAgICAgc3FyaWFrX3Bvc3RzOmNyZWF0ZShUeXBlLCBEYXRhKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>, morph(Data)</text>
+        <text encoding="base64">JSUgQGRvYwolJSBjaGVhcHkgd2F5IHRvIG1ha2Ugc3VyZSBhbGwga2V5cyBhcmUgYmluYXJ5CiUlIEBlbmQKbW9ycGgoRGF0YSkgLT4KICAgIEQxID0ganN4OmVuY29kZShEYXRhKSwKICAgIGpzeDpkZWNvZGUoRDEpLg==</text>
       </register>
       <register name="2" type="4">
-        <text>update</text>
+        <text>, morph(Data)</text>
       </register>
       <register name="3" type="4">
+        <text>update</text>
+      </register>
+      <register name="4" type="4">
         <text>sqriak_posts:create(Type, Data)</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>()</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>propertylist</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>any()</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICA8PCJlamhlaXVoZSI+PiA9IDw8InBvbyI+Pgo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8PCJlamhlaXVoZSI+PiA9IDw8InBvbyI+Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -216,7 +222,6 @@
         <entry>s</entry>
         <entry>W</entry>
         <entry>nohlsearch</entry>
-        <entry>action CommentByLineComment</entry>
         <entry>action VcsShowPrevChangeMarker</entry>
         <entry>action VcsShowNextChangeMarker</entry>
         <entry>action Declaration</entry>
@@ -226,6 +231,7 @@
         <entry>action ChangeColorScheme</entry>
         <entry>q</entry>
         <entry>action FindUsages</entry>
+        <entry>action CommentByLineComment</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
