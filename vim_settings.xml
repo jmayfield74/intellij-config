@@ -2,19 +2,268 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
-    <jumps />
-    <registers />
+    <filemarks>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/csharp_redirect_handler.erl" timestamp="1450148809849">
+        <mark key="[" line="15" column="25" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1450229855992">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_HttpUmbrella/build_deps.stage" timestamp="1450229813228">
+        <mark key="[" line="8" column="74" />
+        <mark key="]" line="13" column="74" />
+        <mark key="^" line="13" column="74" />
+        <mark key="." line="13" column="74" />
+      </file>
+      <file name="/a.dummy" timestamp="1450229855997">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_chat_friends_token_handler.erl" timestamp="1450166826711">
+        <mark key="'" line="81" column="15" />
+        <mark key="[" line="59" column="28" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" timestamp="1450167019675">
+        <mark key="'" line="20" column="33" />
+        <mark key="[" line="169" column="29" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_riak/src/sqriak_posts.erl" timestamp="1450068336559">
+        <mark key="'" line="1054" column="6" />
+        <mark key="[" line="922" column="45" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_flair_handler.erl" timestamp="1450218845971">
+        <mark key="'" line="83" column="49" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_Relationship/src/rls.erl" timestamp="1450144228344">
+        <mark key="'" line="528" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" timestamp="1450208611056">
+        <mark key="'" line="332" column="46" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_recommends_handler.erl" timestamp="1450149192323">
+        <mark key="'" line="30" column="20" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" timestamp="1450218734475">
+        <mark key="'" line="159" column="56" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/entity_cache/src/riak.erl" timestamp="1450123555973">
+        <mark key="[" line="22" column="30" />
+      </file>
+      <file name="/Erlang Console" timestamp="1450165181653">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_riak/src/sqriak_utils.erl" timestamp="1450080159634">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_call_ws.erl" timestamp="1450207822624">
+        <mark key="[" line="0" column="70" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_scheduler/src/ss_task_statsinc_editorial.erl" timestamp="1450222747842">
+        <mark key="'" line="138" column="23" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/src/nf_service.erl" timestamp="1450062531336">
+        <mark key="'" line="56" column="3" />
+        <mark key="[" line="205" column="89" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_scheduler/src/ss_utils.erl" timestamp="1450227596945">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/src/nf_db.erl" timestamp="1450062879322">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="47" column="12" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" timestamp="1450207775514">
+        <mark key="'" line="314" column="38" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/_rel/nf_release/lib/nf-0.1.1/src/nf_thing.erl" timestamp="1449979511688">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" timestamp="1450166992012">
+        <mark key="'" line="10" column="0" />
+        <mark key="j" line="0" column="0" />
+        <mark key="m" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1449978592730">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="56" column="3" filename="$USER_HOME$/code/sqor/erlang/SQ2_NotificationFilter/src/nf_service.erl" />
+      <jump line="171" column="20" filename="$USER_HOME$/code/sqor/erlang/sqor_riak/src/sqriak_posts.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sqor/erlang/sqor_riak/src/sqriak_posts.erl" />
+      <jump line="1056" column="6" filename="$USER_HOME$/code/sqor/erlang/sqor_riak/src/sqriak_posts.erl" />
+      <jump line="8" column="5" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" />
+      <jump line="44" column="57" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" />
+      <jump line="92" column="23" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" />
+      <jump line="528" column="0" filename="$USER_HOME$/code/sqor/erlang/SQ2_Relationship/src/rls.erl" />
+      <jump line="144" column="0" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" />
+      <jump line="30" column="20" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_recommends_handler.erl" />
+      <jump line="168" column="32" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
+      <jump line="167" column="31" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
+      <jump line="28" column="14" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
+      <jump line="143" column="12" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
+      <jump line="123" column="0" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" />
+      <jump line="11" column="17" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" />
+      <jump line="197" column="17" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" />
+      <jump line="32" column="10" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_chat_friends_token_handler.erl" />
+      <jump line="82" column="15" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_chat_friends_token_handler.erl" />
+      <jump line="10" column="0" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_utils.erl" />
+      <jump line="22" column="0" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
+      <jump line="20" column="33" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_rest_search_handler.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="37" column="59" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="38" column="59" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="65" column="53" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="74" column="59" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="113" column="42" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="137" column="36" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="139" column="34" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="185" column="42" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="209" column="34" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="216" column="53" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="311" column="34" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="314" column="38" filename="$USER_HOME$/code/sqor/erlang/SQ2_StatsFeed/src/sf_jsonproc.erl" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="94" column="16" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="126" column="27" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="214" column="60" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="225" column="26" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="227" column="37" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="299" column="45" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="300" column="8" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="301" column="27" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="302" column="19" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="307" column="54" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="313" column="46" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="314" column="8" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="315" column="28" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="316" column="20" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="321" column="48" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="332" column="46" filename="$USER_HOME$/code/sqor/erlang/MongooseIM/apps/ejabberd/src/mod_mam_muc.erl" />
+      <jump line="93" column="56" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" />
+      <jump line="157" column="56" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sqor_ft_rest_app.erl" />
+      <jump line="45" column="42" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_flair_handler.erl" />
+      <jump line="83" column="49" filename="$USER_HOME$/code/sqor/erlang/sqor_ft_rest/src/sfr_flair_handler.erl" />
+      <jump line="138" column="23" filename="$USER_HOME$/code/sqor/erlang/sqor_scheduler/src/ss_task_statsinc_editorial.erl" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>desc</text>
+      </register>
+      <register name="-" type="4">
+        <text>, morph(Data)</text>
+      </register>
+      <register name="/" type="4">
+        <text>flair</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3FyaWFrX3Bvc3RzOmNyZWF0ZShUeXBlLCBEYXRhKTsK</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">JSUgQGRvYwolJSBjaGVhcHkgd2F5IHRvIG1ha2Ugc3VyZSBhbGwga2V5cyBhcmUgYmluYXJ5CiUlIEBlbmQKbW9ycGgoRGF0YSkgLT4KICAgIEQxID0ganN4OmVuY29kZShEYXRhKSwKICAgIGpzeDpkZWNvZGUoRDEpLg==</text>
+      </register>
+      <register name="2" type="4">
+        <text>, morph(Data)</text>
+      </register>
+      <register name="3" type="4">
+        <text>update</text>
+      </register>
+      <register name="4" type="4">
+        <text>sqriak_posts:create(Type, Data)</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>()</text>
+      </register>
+      <register name="7" type="4">
+        <text>propertylist</text>
+      </register>
+      <register name="8" type="4">
+        <text>any()</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICA8PCJlamhlaXVoZSI+PiA9IDw8InBvbyI+Pgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
+      <last-search>flair</last-search>
+      <last-offset />
+      <last-pattern>flair</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
-      <history-search />
-      <history-cmd />
+      <history-search>
+        <entry>nf_</entry>
+        <entry>like</entry>
+        <entry>box</entry>
+        <entry>recommen</entry>
+        <entry>we</entry>
+        <entry>iutils</entry>
+        <entry>utils</entry>
+        <entry>to</entry>
+        <entry>to:</entry>
+        <entry>to\:</entry>
+        <entry>sender</entry>
+        <entry>from</entry>
+        <entry>flair</entry>
+      </history-search>
+      <history-cmd>
+        <entry>s</entry>
+        <entry>W</entry>
+        <entry>nohlsearch</entry>
+        <entry>action VcsShowPrevChangeMarker</entry>
+        <entry>action VcsShowNextChangeMarker</entry>
+        <entry>action Declaration</entry>
+        <entry>actionlist quick</entry>
+        <entry>actionlist color</entry>
+        <entry>action ChangeColorScheme 8</entry>
+        <entry>action ChangeColorScheme</entry>
+        <entry>q</entry>
+        <entry>action FindUsages</entry>
+        <entry>action CommentByLineComment</entry>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

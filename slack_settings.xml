@@ -1,0 +1,14 @@
+<application>
+  <component name="SlackStorage">
+    <option name="settings">
+      <map>
+        <entry key="code-paste" value="T024GDNH9/B0GNMAVB4/jzlqozisbDZNeT8CftQ3fKWi" />
+      </map>
+    </option>
+    <option name="aliases">
+      <map>
+        <entry key="code-paste" value="james" />
+      </map>
+    </option>
+  </component>
+</application>
